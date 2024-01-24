@@ -1,0 +1,1 @@
+# example-static-next-app
